@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Truffels",
+      "place": "Koramangala",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Bings",
+      "place": "Koramangala",
+      "imageUrl": "https://resizer.otstatic.com/v2/photos/wide-xlarge/1/41936715.jpg"
+    },
+    {
+      "id": 3,
+      "name": "BOB's",
+      "place": "Koramangala",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1c/23/52/74/the-carriage-house-at.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Avini's",
+      "place": "Koramangala",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6jrhxoeZdyJtMia98PzvbzZiaOdQ_lgGw0OSbnX8Hgk8WCb1kDyucrjp7o6X-wEGb-A&usqp=CAU"
+    }
+  ]
+}

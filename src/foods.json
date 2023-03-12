@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Pepproni Pizza",
+      "price": 220,
+      "category": "pizza",
+      "foodType": "veg",
+      "imageUrl": "https://img.freepik.com/free-photo/thinly-sliced-pepperoni-is-popular-pizza-topping-american-style-pizzerias-isolated-white-background-still-life_639032-229.jpg?w=826&t=st=1678619520~exp=1678620120~hmac=ad1a06c5a16b7d23d3ce6e2d75ba505bcd22a07c1c039984d7a4d1f5f479576d"
+    },
+    {
+      "id": 2,
+      "name": "Marghretta Pizza",
+      "price": 260,
+      "category": "pizza",
+      "foodType": "veg",
+      "imageUrl": "https://img.freepik.com/free-photo/thinly-sliced-pepperoni-is-popular-pizza-topping-american-style-pizzerias-isolated-white-background-still-life_639032-229.jpg?w=826&t=st=1678619520~exp=1678620120~hmac=ad1a06c5a16b7d23d3ce6e2d75ba505bcd22a07c1c039984d7a4d1f5f479576d"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Burger",
+      "price": 360,
+      "category": "burger",
+      "foodType": "non-veg",
+      "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Peri Peri Tacos",
+      "price": 130,
+      "category": "tacos",
+      "foodType": "veg",
+      "imageUrl": "https://media.istockphoto.com/id/172857632/photo/classic-taco-isolated-on-white-background-with-soft-shadow.jpg?s=612x612&w=0&k=20&c=zHrXyzfGMoBI_aPEI6uLe4Trv39j2uIkiW0qqj0vgs4="
+    },
+    {
+      "id": 5,
+      "name": "MOMO",
+      "price": 100,
+      "category": "momo",
+      "foodType": "veg",
+      "imageUrl": "https://media.istockphoto.com/id/1133151212/photo/japanese-dumplings-gyoza-with-pork-meat-and-vegetables.jpg?s=612x612&w=0&k=20&c=vC6GTUDGK6dD5_QHvY1V7fVUdPx-z4TG73DUACR_L5s="
+    },
+    {
+      "id": 6,
+      "name": "Chai",
+      "price": 20,
+      "category": "milk",
+      "foodType": "veg",
+      "imageUrl": "https://media.istockphoto.com/id/1064859392/photo/tea-served-in-a-traditional-mud-cup-in-india.jpg?s=612x612&w=0&k=20&c=vOGMGhMX20HSWfGhmaMW6Wu5ogBspkQJq3Y6cs4fu3A="
+    }
+  ]
+}

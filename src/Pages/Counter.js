@@ -1,10 +1,15 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 export default function Counter() {
   // VAR - GLOBAL SCOPED,
   // LET, CONST =  BLOCK SCOPE
   // TEMPORAL DEAD ZONE -  TIMER
   const [count, setCount] = useState(0);
+
+  // WHEN A COMPONENT RENDERS FOR FIRST TIME
+  useEffect(() => {
+    console.log("Rendering");
+  }, [count]);
   // ARROW
   // PURE FUNCTION
   const handleClick = (type = "") => {
